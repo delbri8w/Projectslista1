@@ -26,7 +26,7 @@
 
 &nbsp;
 
-
+![sedaqlsalesdataproject2](https://github.com/delbri8w/Projectslista1/assets/143523078/e6ed8bb8-1008-463b-9dce-87dd0ec7ba52)
 
 ## SQL Project
 
