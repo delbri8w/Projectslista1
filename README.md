@@ -8,6 +8,10 @@
 
 ![PROJECTA1](https://github.com/delbri8w/Resgimsprj1/blob/main/Rdatapart23.JPG)
 
+![Projectb1](https://github.com/delbri8w/Resgimsprj1/blob/a3d93841fcc4415413de1edc32ce7ff71c4574e2/Dvizatableauproject1.JPG)
+
+
+
 &nbsp;
 
 ## Tableau - Data Visualization  Project
