@@ -10,11 +10,6 @@
 
 &nbsp;
 
-![ProjectR](https://raw.githubusercontent.com/delbri8w/Projects_List1/de507d0f3369b07a2d7b24f9854f4db03f601f0b/Images/Rdatapart23.JPG) 
-
-&nbsp;
-
-
 ## Tableau - Data Visualization  Project
 
 ###  Sales Dashboard - Sales_Data_Sample
