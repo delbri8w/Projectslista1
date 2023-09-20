@@ -6,10 +6,8 @@
 
 #### To see more of this project -> [Click here on this link](https://www.kaggle.com/code/brigitei/case-study-data-analytics-v1)
 
-![rdatapart23b](https://github.com/delbri8w/Projectslista1/assets/143523078/7f29380e-d2a5-454f-88ff-f8cf72b9dcf1)
 
-
-
+![Proj4](https://user-images.githubusercontent.com/143523078/269400863-7f29380e-d2a5-454f-88ff-f8cf72b9dcf1.JPG)
 
 
 &nbsp;
