@@ -6,7 +6,7 @@
 
 #### To see more of this project -> [Click here on this link](https://www.kaggle.com/code/brigitei/case-study-data-analytics-v1)
 
-![PROJECTA1](https://github.com/delbri8w/Resgimsprj1/blob/main/Rdatapart23.JPG)
+![PROJECTA1](./https://github.com/delbri8w/Resgimsprj1/blob/main/Rdatapart23.JPG)
 
 ![Projectb1](https://github.com/delbri8w/Resgimsprj1/blob/a3d93841fcc4415413de1edc32ce7ff71c4574e2/Dvizatableauproject1.JPG)
 
