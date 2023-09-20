@@ -6,7 +6,11 @@
 
 #### To see more of this project -> [Click here on this link](https://www.kaggle.com/code/brigitei/case-study-data-analytics-v1)
 
-![Proj](https://user-images.githubusercontent.com/143523078/269391987-16beb339-0446-4883-9daa-997457197a5d.JPG)
+![rdatapart23b](https://github.com/delbri8w/Projectslista1/assets/143523078/7f29380e-d2a5-454f-88ff-f8cf72b9dcf1)
+
+
+
+
 
 &nbsp;
 
@@ -17,6 +21,7 @@
 ###  Sales Dashboard - Sales_Data_Sample
 #### To see more of this project -> [Click here on this link](https://public.tableau.com/app/profile/brigite.inevil)
 
+![Proj1](https://user-images.githubusercontent.com/143523078/269391987-16beb339-0446-4883-9daa-997457197a5d.JPG)
 
 &nbsp;
 
