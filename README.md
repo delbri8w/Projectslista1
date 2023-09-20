@@ -14,6 +14,9 @@
 
 &nbsp;
 
+![dvizatableauproject2](https://github.com/delbri8w/projectlista2/assets/143523078/16beb339-0446-4883-9daa-997457197a5d)
+
+
 ## Tableau - Data Visualization  Project
 
 ###  Sales Dashboard - Sales_Data_Sample
