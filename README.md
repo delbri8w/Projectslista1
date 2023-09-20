@@ -6,15 +6,10 @@
 
 #### To see more of this project -> [Click here on this link](https://www.kaggle.com/code/brigitei/case-study-data-analytics-v1)
 
-![PROJECTA1](./https://github.com/delbri8w/Resgimsprj1/blob/main/Rdatapart23.JPG)
-
-![Projectb1](https://github.com/delbri8w/Resgimsprj1/blob/a3d93841fcc4415413de1edc32ce7ff71c4574e2/Dvizatableauproject1.JPG)
-
-
+![Proj](https://user-images.githubusercontent.com/143523078/269391987-16beb339-0446-4883-9daa-997457197a5d.JPG)
 
 &nbsp;
 
-![dvizatableauproject2](https://github.com/delbri8w/projectlista2/assets/143523078/16beb339-0446-4883-9daa-997457197a5d)
 
 
 ## Tableau - Data Visualization  Project
