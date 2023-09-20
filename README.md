@@ -18,11 +18,9 @@
 ###  Sales Dashboard - Sales_Data_Sample
 #### To see more of this project -> [Click here on this link](https://public.tableau.com/app/profile/brigite.inevil)
 
-![PROJECTB1](https://github.com/delbri8w/Resgimsprj1/blob/main/Dvizatableauproject1.JPG)
 
 &nbsp;
 
-![sedaqlsalesdataproject2](https://github.com/delbri8w/Projectslista1/assets/143523078/e6ed8bb8-1008-463b-9dce-87dd0ec7ba52)
 
 ## SQL Project
 
@@ -30,4 +28,3 @@
 
 #### To see more of this project -> [Click here on this link](https://1drv.ms/b/s!Ag4Ghq9XPtYbhFRY9QDyGOjpJV_s?e=zkLf7Q)
 
-![PROJECTC1](https://github.com/delbri8w/Resgimsprj1/blob/main/Sedaqlsalesdataproject1.JPG)
